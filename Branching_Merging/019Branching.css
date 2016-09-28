@@ -1,0 +1,16 @@
+.container{
+  width: 1028px;
+  height: auto;
+  background-color: black;
+}
+
+img{
+  border: 2px solid grey;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+h1, p{
+  color: white;
+  padding: 5px;
+}
